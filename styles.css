@@ -1,0 +1,14 @@
+#center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+button{
+    height: 100px;
+    width:100px;
+    margin: 10px;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+}
